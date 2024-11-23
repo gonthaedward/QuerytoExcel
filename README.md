@@ -2,14 +2,16 @@
 Application to retrieve data from mysql into excel
 
 Installation consist of 2 ways: 
-- htdocs from XAMPP
-- run .bat file
+- htdocs from XAMPP (access from browser)
+- run .bat file (access by running .bat)
 
-**htdocs from XAMPP: **
 
-##how to install: 
+# htdocs from XAMPP:
 
-- Download XAMPP (this app is using XAMPP for PHP ver. 7.4.33 but any version is ok) [https://www.apachefriends.org/download.html]
+
+how to install: 
+
+- Download XAMPP (this app is developed using XAMPP for PHP ver. 7.4.33 but since it doesnt supuported by xampp anymore, any version is ok) [https://www.apachefriends.org/download.html]
 - Install XAMPP
 - Download .zip from this page
 - Move folder to htdocs in xampp (if you are installing xampp without customization the path of htdocs would be: **C:\xampp\htdocs**)
@@ -33,8 +35,8 @@ To fix it you have to
 
 
 
-BELOW IS how to run the .bat file
-**run .bat file**
+
+# run .bat file: 
 
 There is .bat file inside the zip, it can be used to run the application automatically by only double clicking it. 
 
