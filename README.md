@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1936e894-499f-433e-b3cf-cbcbed2c9606)![image](https://github.com/user-attachments/assets/abefc51a-dc8e-4cd1-af75-b9d188260946)# QuerytoExcel
+# QuerytoExcel
 Application to retrieve data from mysql into excel
 
 Installation consist of 2 ways: 
@@ -31,7 +31,11 @@ To fix it you have to
 - right click "run.php" and run it on Notepad, Notepad++, or Visual Studio Code
 - update the part where there is comment "//database" into database you wanted to query
 
+
+
+BELOW IS how to run the .bat file
 **run .bat file**
+
 There is .bat file inside the zip, it can be used to run the application automatically by only double clicking it. 
 
 ![image](https://github.com/user-attachments/assets/57483c8c-4381-4c62-af31-02c0d7d7a602)
