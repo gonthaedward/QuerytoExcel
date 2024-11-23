@@ -61,7 +61,7 @@ For both of type there are some point you have to update it to run as you want:
 - $saveDirectory : this is a path that will be used to save your data. 
 [this is example of the save directory update into htdocs:
 from:
-    $saveDirectory = 'C:\\Users\\Eda\\Downloads';
+    $saveDirectory = 'C:\\Users\\User\\Downloads';
 
 to
     $saveDirectory = 'C:\\xampp\\htdocs\\QuerytoExcel';
